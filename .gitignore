@@ -39,3 +39,7 @@ build/
 derby.log
 .idea/
 .idea/*
+./metastore_db/
+./metastore_db/*
+./spark-warehouse/
+./spark-warehouse/*
